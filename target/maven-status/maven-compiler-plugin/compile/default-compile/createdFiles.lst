@@ -1,0 +1,6 @@
+modelo\Main.class
+PatternFactory\CalculoPorRegiao.class
+PatternFactory\IcmsMG.class
+modelo\Orcamento.class
+PatternFactory\IcmsSP.class
+PatternFactory\IcmsFactory.class
